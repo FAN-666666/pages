@@ -1,12 +1,13 @@
-![This is an image](whatisacomputer_desktop_computers.jpg)
+![This is an image](/whatisacomputer_desktop_computers.jpg)
 
 ## I am Yifan Lu
 **I am a third year computer science student**
 >你好
 
-```
+
+'''
 print("Hello World")
-```
+'''
 
 This site is my first [Github repository](https://github.com/FAN-666666/pages/).
 [README for this repository](README.md)
