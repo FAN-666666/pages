@@ -6,10 +6,9 @@
 My favorite quote
 >If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron
 
-'''
+```python
 print("Hello World")
-'''
-
+```
 This site is my first [Github repository](https://github.com/FAN-666666/pages/).
 
 [README for this repository](README.md)
