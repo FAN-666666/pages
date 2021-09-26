@@ -2,7 +2,9 @@
 
 ## I am Yifan Lu
 **I am a third year computer science student**
->你好
+
+My favorite quote
+>If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron
 
 
 '''
